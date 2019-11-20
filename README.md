@@ -1,6 +1,7 @@
 ## Description
 
-Backend server for [Van hack chrome extension frontend](https://github.com/goodmite/van-hack-extension-fe)
+Backend server for [Van hack chrome extension](https://github.com/goodmite/van-hack-extension-fe)
+
 Deployed [here](https://van-hack-be.herokuapp.com/) on heroku
 
 ## Running the app
